@@ -1,0 +1,3 @@
+# spring-is-amazing
+Building application with java spring framework.
+Details will be updated as I progress...
