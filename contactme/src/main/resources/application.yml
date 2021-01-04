@@ -1,0 +1,10 @@
+---
+server:
+  port: 1232
+management:
+  port: 9191
+tomcat:
+  jvmroute: 5478
+  ajp:
+    port: 4512
+    redirectPort: 1236
